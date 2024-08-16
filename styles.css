@@ -1,0 +1,52 @@
+*{
+    background-color: rgb(241, 227, 178);
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+
+img{
+    width: 400px ;  
+    height: 200px;
+    border: none;
+}
+
+
+#bienvenidas{
+    color: rgba(85, 14, 73, 0.952);
+
+}
+
+h2{
+    text-align: center;
+}
+table{
+    margin-left: 9%;
+    margin-right: 5%;
+}
+.imgviaje{
+    width: 250px;
+    height: 200px;
+}
+
+.cuadricula{
+padding: 3px;
+}
+.btn{
+   margin-left: 2.5%;
+   background-color: rgb(185, 55, 197);
+   padding: 20px 70px;
+   border-radius: 5%;
+   border: 0;
+   color: rgb(230, 219, 219);
+   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+footer, pre, a{
+    background-color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+
+/*3 selectores clases
+2 selectores id*/
+
